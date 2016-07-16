@@ -15,7 +15,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/mattunderscorechampion/mattunderscore-common-parent.git</connection>
-        <developerConnection>scm:git:https://github.com/mattunderscorechampion/mattunderscore-common-parent.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mattunderscorechampion/mattunderscore-common-parent.git</developerConnection>
         <url>https://github.com/mattunderscorechampion/mattunderscore-common-parent</url>
         <tag>HEAD</tag>
     </scm>
