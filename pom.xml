@@ -40,6 +40,14 @@
         </developer>
     </developers>
 
+    <!-- Licensing information -->
+    <licenses>
+        <license>
+            <name>New BSD License</name>
+            <url>http://www.opensource.org/licenses/bsd-license.php</url>
+        </license>
+    </licenses>
+
     <!-- Common dependencies -->
     <dependencyManagement>
         <dependencies>
