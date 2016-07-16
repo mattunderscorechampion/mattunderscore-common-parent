@@ -13,12 +13,23 @@
         <slf4j.version>1.7.12</slf4j.version>
     </properties>
 
+    <!-- Source control for common parent -->
     <scm>
         <connection>scm:git:https://github.com/mattunderscorechampion/mattunderscore-common-parent.git</connection>
         <developerConnection>scm:git:git@github.com:mattunderscorechampion/mattunderscore-common-parent.git</developerConnection>
         <url>https://github.com/mattunderscorechampion/mattunderscore-common-parent</url>
         <tag>HEAD</tag>
     </scm>
+
+    <!-- Developer information -->
+    <developers>
+        <developer>
+            <name>Matthew Champion</name>
+            <url>http://www.mattunderscore.com</url>
+            <email>matt_champion1@yahoo.co.uk</email>
+            <timezone>+0</timezone>
+        </developer>
+    </developers>
 
     <!-- Common dependencies -->
     <dependencyManagement>
