@@ -8,6 +8,15 @@
     <version>1.3.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <!-- Basic project information -->
+    <name>Mattunderscore Common Parent</name>
+    <description>
+        Common parent for other projects.
+        Configures dependency and plugin versions.
+        Configures how to release the project.
+    </description>
+    <url>https://github.com/mattunderscorechampion/mattunderscore-common-parent</url>
+
     <!-- Properties -->
     <properties>
         <!-- Build properties -->
