@@ -38,7 +38,7 @@
 * Use build rules from `mattunderscore-build-rules:1.0.0`
 
 ## 1.3.0
-### TBD
+### Released 28/04/2018
 
 * Remove parent `oss-parent:9`
 * Provide release support locally using `mattunderscore-release` profile
